@@ -1,0 +1,26 @@
+/* Quotes Theme Overrides */
+
+#wrapper .quote-text,
+.post-type-archive-quotes #wrapper .quote-text {
+  font-size: 15px !important;
+  font-weight: 600 !important;
+  color:#444 !important;
+}
+
+#wrapper .quote-author,
+.post-type-archive-quotes #wrapper .quote-author {
+  font-size: 15px !important;
+}
+
+#wrapper .quotes-open {
+  float: right;
+  margin: 0 0 15px 15px;
+}
+
+#mm_opp {
+  display: none;
+  visibility: hidden;
+  position: absolute;
+  height: 1px;
+  width: 1px;
+}
